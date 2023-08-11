@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=OBSIDIAN_VERSION
+Name=Obsidian
+GenericName=Obsidian
+Keywords=Notes;Note taking;Markdown;Document
+Exec=/opt/obsidian/Obsidian.AppImage %u
+Terminal=false
+Type=Application
+StartupNotify=true
+X-MultipleArgs=false
+Icon=obsidian
+StartupWMClass=obsidian
+X-AppImage-Version=OBSIDIAN_VERSION
+Comment=Obsidian
+Categories=Office;
+MimeType=text/html;x-scheme-handler/obsidian;
+
