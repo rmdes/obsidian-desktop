@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-VERSION="1.3.7"
+VERSION="1.7.7"
 
 # Download
 if [ ! -e Obsidian-${VERSION}.AppImage ] ; then
